@@ -1,0 +1,139 @@
+{
+    "assets": [
+        {
+            "name": "block.png"
+        },
+        {
+            "name": "bloom.frag"
+        },
+        {
+            "name": "bloom.vert"
+        },
+        {
+            "name": "blur.frag"
+        },
+        {
+            "name": "blur.vert"
+        },
+        {
+            "name": "fxaa.frag"
+        },
+        {
+            "name": "fxaa.vert"
+        },
+        {
+            "name": "gaussianBlur.frag"
+        },
+        {
+            "name": "glow.frag"
+        },
+        {
+            "name": "glow.vert"
+        },
+        {
+            "name": "innerLight.frag"
+        },
+        {
+            "name": "item-apple.png"
+        },
+        {
+            "name": "item-end1.png"
+        },
+        {
+            "name": "item-end2.png"
+        },
+        {
+            "name": "item-end3.png"
+        },
+        {
+            "name": "item-end4.png"
+        },
+        {
+            "name": "item-end5.png"
+        },
+        {
+            "name": "item-end6.png"
+        },
+        {
+            "name": "item-end7.png"
+        },
+        {
+            "name": "item-end8.png"
+        },
+        {
+            "name": "item-end9.png"
+        },
+        {
+            "name": "item-minus.png"
+        },
+        {
+            "name": "item-plus.png"
+        },
+        {
+            "name": "msdf.frag"
+        },
+        {
+            "name": "msdf.vert"
+        },
+        {
+            "name": "nav-circle.png"
+        },
+        {
+            "name": "nav-direction-disabled.png"
+        },
+        {
+            "name": "nav-direction-selected.png"
+        },
+        {
+            "name": "nav-direction.png"
+        },
+        {
+            "name": "nav-flip-selected.png"
+        },
+        {
+            "name": "nav-flip.png"
+        },
+        {
+            "name": "nav-restart.png"
+        },
+        {
+            "name": "outline.frag"
+        },
+        {
+            "name": "outline.vert"
+        },
+        {
+            "name": "pixelArt.frag"
+        },
+        {
+            "name": "pixelArt.vert"
+        },
+        {
+            "name": "RobotoMedium.fnt"
+        },
+        {
+            "name": "RobotoMedium.png"
+        },
+        {
+            "name": "textured.frag"
+        },
+        {
+            "name": "textured.vert"
+        },
+        {
+            "name": "tile-h.png"
+        },
+        {
+            "name": "tile-v.png"
+        },
+        {
+            "name": "tintBlack.frag"
+        },
+        {
+            "name": "tintBlack.vert"
+        },
+        {
+            "name": "white.png"
+        }
+    ]
+}
